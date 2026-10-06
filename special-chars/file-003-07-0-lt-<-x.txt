@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 3
+Branch index: 7
+File slot: 0
+Special character: '<' (label: lt)
+Repo: test-repo.003
+Branch: branch-003-07-lt-<-x
+Path: special-chars/file-003-07-0-lt-<-x.txt
