@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 3
+Branch index: 9
+File slot: 1
+Special character: '_' (label: underscore)
+Repo: test-repo.003
+Branch: branch-003-09-rbracket-]-x
+Path: special-chars/file-003-09-1-underscore-_-x.txt
